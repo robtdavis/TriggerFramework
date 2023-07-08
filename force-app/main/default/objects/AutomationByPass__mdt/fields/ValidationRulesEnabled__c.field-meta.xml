@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>ValidationRulesEnabled__c</fullName>
+    <defaultValue>false</defaultValue>
+    <description>Are Validation Rules Enabled for the Object? True for yes, False for No</description>
+    <externalId>false</externalId>
+    <fieldManageability>DeveloperControlled</fieldManageability>
+    <label>Validation Rules Enabled</label>
+    <type>Checkbox</type>
+</CustomField>
